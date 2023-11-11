@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yessine Ben Salah</h1>
 <h3 align="center">A Full Stack Developer from Tunisia</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yassinbnsalah&label=Profile%20views&color=0e75b6&style=flat" alt="yassinbnsalah" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yassinbnsalah" alt="yassinbnsalah" /></a> </p>
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/yassine.ben.salah.69) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yassine-bn-salah-b06703197) 
 

@@ -1,5 +1,3 @@
-<h1 align="center">Hi 👋, I'm Yessine Ben Salah</h1>
-<h3 align="center">A Full Stack Developer from Tunisia</h3>
 
 
 ## 🌐 Socials:

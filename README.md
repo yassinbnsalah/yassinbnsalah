@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yessine Ben Salah</h1> 
-<h3 align="center">A Full Stack Developer from Tunisia</h3>
+<h3 align="center">A Full Stack Developer</h3>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/yassine.ben.salah.69)
